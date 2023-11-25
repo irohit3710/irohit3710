@@ -1,22 +1,5 @@
-<!-- ### Hi there 👋-->
-
-<!--
-**irohit3710/irohit3710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi 👋, I'm Rohit Panwar</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A passionate MERN Stack Developer from India</h3>
 
 - 🔭 Previous Projects are [WixMovix](https://wix-movies.vercel.app/)
 
@@ -33,9 +16,9 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rohitpa41273782" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohitpa41273782" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rohit-panwar-b4bba6242/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rohit-panwar-b4bba6242/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.linkedin.com/in/rohit-panwar-b4bba6242/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.linkedin.com/in/rohit-panwar-b4bba6242/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/rohit_panwar_3710/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rohit_panwar_3710/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rohit-panwar-b4bba6242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit-panwar-b4bba6242" height="30" width="40" /></a>
+<a href="https://fb.com/rohit-panwar-b4bba6242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rohit-panwar-b4bba6242" height="30" width="40" /></a>
+<a href="https://instagram.com/rohit_panwar_3710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohit_panwar_3710" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/i_rohit_p" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="i_rohit_p" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/i_rohit_p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="i_rohit_p" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/its_rohit_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="its_rohit_m" height="30" width="40" /></a>
@@ -47,4 +30,3 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=irohit3710&show_icons=true&locale=en&layout=compact" alt="irohit3710" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irohit3710&" alt="irohit3710" /></p>
-
