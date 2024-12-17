@@ -1,17 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Panwar</h1>
-<h3 align="center">A passionate MERN Stack Developer from India</h3>
-
-- 🔭 Previous Projects are [WixMovix](https://wix-movies.vercel.app/)
-
-- 🌱 I’m currently learning **Three Js and Data Structures and Algorithms**
-
-- 👯 I’m currently working on **APNA KISAN**
-
-- 💬 Ask me about **React Js, Node Js, Express Js,Mongo Db,Data Structures and Algorithms**
-
-- 📫 How to reach me **Rohitpanwar9014rp@gmail.com**
-
-- 📄 Know about my experiences [www.google.com](www.google.com)
+<h3 align="center">A passionate MERN Stack Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
