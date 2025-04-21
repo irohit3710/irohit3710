@@ -3,13 +3,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rohitpa41273782" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohitpa41273782" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rohit-panwar-b4bba6242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit-panwar-b4bba6242" height="30" width="40" /></a>
-<a href="https://fb.com/rohit-panwar-b4bba6242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rohit-panwar-b4bba6242" height="30" width="40" /></a>
-<a href="https://instagram.com/rohit_panwar_3710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohit_panwar_3710" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/i_rohit_p" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="i_rohit_p" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/i_rohit_p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="i_rohit_p" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/its_rohit_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="its_rohit_m" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/its_rohit_3710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="its_rohit_3710" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
